@@ -49,14 +49,14 @@
   "description": "This dataset contains four synthetic traffic networks modeled in SUMO along with corresponding vehicle flow measurements from virtual sensors. Each network has its own configuration files (network, OD, TAZ, etc.), and each has a matching CSV file listing vehicle flows on sensor-equipped edges.",
   "conformsTo": "http://mlcommons.org/croissant/1.0",
   "citeAs": "@article{ryu2025bayesian, title={Bayesian Optimization for High-Dimensional Urban Mobility Problem}, author={Seunghee Ryu and Donghoon Kwon and Seongjin Choiand Aryan Deshwal and Seungmo Kang and Carolina Osorio}, year={2025},",
-  "url": "https://github.com/TrafficSimBenchmark/dataset",
+  "url": "https://github.com/UMN-Choi-Lab/BO4Mob_dataset",
   "distribution": [
     {
       "@type": "cr:FileObject",
       "@id": "github-repository",
       "name": "github-repository",
       "description": "BO benchmark on GitHub",
-      "contentUrl": "https://github.com/TrafficSimBenchmark/dataset",
+      "contentUrl": "https://github.com/UMN-Choi-Lab/BO4Mob_dataset",
       "encodingFormat": "git+https",
       "sha256": "main"
     },
