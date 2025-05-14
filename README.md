@@ -1,7 +1,7 @@
 # Dataset for BO4Mob
 Dataset for NeurIPS 2025 submission
 
-1. This is dataset for BO4Mob
+1. This is a dataset for BO4Mob
    - [https://github.com/UMN-Choi-Lab/BO4Mob](https://github.com/UMN-Choi-Lab/BO4Mob)
 
 2. A URL to your dataset accessible to reviewers
