@@ -45,10 +45,10 @@
     "transform": "cr:transform"
   },
   "@type": "sc:Dataset",
-  "name": "BO Benchmark Dataset",
-  "description": "This dataset contains five traffic networks modeled in SUMO, each accompanied by vehicle link flow measurements derived from PeMS sensor data.Every network includes its own configuration files (network, OD, TAZ, and additional files),along with a corresponding routes.csv file that defines vehicle paths between TAZs.Two versions of the routes are provided: one containing a single route per TAZ pair (single) and another with multiple routes per TAZ pair (multiple).Sensor data indicates the number of vehicles passing through detectors located on specific network links.For each network, sensor data is available for a particular date and time period.",
+  "name": "BO4Mob_dataset",
+  "description": "This dataset contains five traffic networks modeled in SUMO, each accompanied by vehicle link flow measurements derived from PeMS sensor data. Every network includes its own configuration files (network, OD, TAZ, and additional files), along with a corresponding routes.csv file that defines vehicle paths between TAZs. Two versions of the routes are provided: one containing a single route per TAZ pair (single) and another with multiple routes per TAZ pair (multiple). Sensor data indicates the number of vehicles passing through detectors located on specific network links. For each network, sensor data is available for a particular date and time period.",
   "conformsTo": "http://mlcommons.org/croissant/1.0",
-  "citeAs": "@article{ryu2025bayesian, title={Bayesian Optimization Benchmarks for High-Dimensional Urban Mobility Problem}, author={Seunghee Ryu and Donghoon Kwon and Seongjin Choiand Aryan Deshwal and Seungmo Kang and Carolina Osorio}, year={2025},",
+  "citeAs": "@article{ryu2025bo4mob, title={BO4Mob: Bayesian Optimization Benchmarks for High-Dimensional Urban Mobility Problem}, author={Seunghee Ryu and Donghoon Kwon and Seongjin Choi and Aryan Deshwal and Seungmo Kang and Carolina Osorio}, year={2025},",
   "url": "https://github.com/UMN-Choi-Lab/BO4Mob_dataset",
   "distribution": [
     {
