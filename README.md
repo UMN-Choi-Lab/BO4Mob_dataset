@@ -9,7 +9,7 @@ Dataset for NeurIPS 2025 submission
 
     
 3. A Croissant metadata file
-    - `croissant.json`
+    - `croissant_before.json`
 
 4. A confirmation that you verified the validity of your Croissant file.
     - Get the validity at https://huggingface.co/spaces/JoaquinVanschoren/croissant-checker
