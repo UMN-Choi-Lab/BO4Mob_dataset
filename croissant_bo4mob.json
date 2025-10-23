@@ -426,7 +426,7 @@
           "@id": "csv_sensor/interval_harmonicMeanSpeed",
           "name": "interval_harmonicMeanSpeed",
           "description": "Average speed of vehicles that passed the sensor during the interval.",
-          "dataType": "sc:Float",
+          "dataType": "sc:Integer",
           "source": {
             "fileSet": {
               "@id": "csv-sensor-files"
