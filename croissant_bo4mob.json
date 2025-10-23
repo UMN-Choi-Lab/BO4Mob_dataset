@@ -408,8 +408,8 @@
         },
         {
           "@type": "cr:Field",
-          "@id": "csv_sensor/interval_meanSpeed",
-          "name": "interval_meanSpeed",
+          "@id": "csv_sensor/interval_harmonicMeanSpeed",
+          "name": "interval_harmonicMeanSpeed",
           "description": "Average speed of vehicles that passed the sensor during the interval.",
           "dataType": "sc:Integer",
           "source": {
@@ -417,7 +417,7 @@
               "@id": "csv-sensor-files"
             },
             "extract": {
-              "column": "interval_meanSpeed"
+              "column": "interval_harmonicMeanSpeed"
             }
           }
         },
